@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=4169E1&height=150&section=header&text=sungchan1&fontSize=70&fontColor=e9e9e9&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=4169E1&height=150&section=header&text=yeosungchan&fontSize=70&fontColor=e9e9e9&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
