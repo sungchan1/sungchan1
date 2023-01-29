@@ -32,7 +32,7 @@
 <div align="center" style="text-align:center">
   
 <!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pasa)](https://github.com/eungyeole/velog-readme-stats) -->
-  [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=du-sungchan-24k)](https://github.com/MoonJuhan/tistory-readme-stats)
+  [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=du-sungchan-24k)](https://du-sungchan-24k.tistory.com)
 
 </div>
   
