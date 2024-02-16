@@ -18,7 +18,7 @@
   
 </p>
 
-<p align="center"> Techs that I'll to do soon </p>
+<p align="center"> Solved.ac Profile </p>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sungchan254" />
 </p>
