@@ -32,8 +32,7 @@
 <!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pasa)](https://github.com/eungyeole/velog-readme-stats) -->
   [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=du-sungchan-24k)](https://du-sungchan-24k.tistory.com)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungchan1&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungchan1)](https://github.com/sungchan1/github-readme-stats)
 
 </div>
   
