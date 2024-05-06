@@ -21,11 +21,13 @@
 
 <h3 align="center">🪄 Blog 🪄</h3>
 
-<div align="center">
+
+
+<p align="center">
   <a href="https://du-sungchan-24k.tistory.com/">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory" alt="Visit Tistory">
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=sungchan%20%20Tistory&theme=blue" alt="Visit Tistory">
   </a>
-</div>
+</p>
 
   
 <br>
@@ -44,7 +46,4 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungchan1%2Fhit-counter&count_bg=%234169E1&title_bg=%23555555&icon=&icon_color=%234169E1&title=hits&edge_flat=false"/></a>
 </p>
-
-
-
 
