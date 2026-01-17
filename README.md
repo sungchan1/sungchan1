@@ -17,7 +17,7 @@
 ## WORK EXPERIENCE
 
 **SW Maestro (소프트웨어 마에스트로)**
-- **Outstanding Trainee (Top 10 / 110)** | Mar 2025 – Dec 2025
+- **Trainee (Top 10 / 110)** | Mar 2025 – Dec 2025
 
 **Samsung Electronics**
 - Software Developer (Full-time) | Jul 2024 – Jan 2025
