@@ -4,7 +4,7 @@
 - Co-founder & Developer | May 2026 – Present
 - Building **[Cat's Library](https://catslibrary.com/)**, a reading tracker app with **70,000+ users**
 
-**SW Maestro (소프트웨어 마에스트로)**
+**SW Maestro**
 - Trainee | Mar 2025 – Dec 2025
 - Led Cat's Library from launch to **12,000+ users** during the program
 
